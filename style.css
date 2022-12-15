@@ -1,0 +1,1565 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+section{
+    width:100vw;
+}
+
+.homepage{
+
+    box-sizing: border-box;
+    border: px solid red;
+    width: 100%;
+    height: 100vh;
+    background-image: url(./image/HERO\ BG.png);
+    background-size: cover;
+    background-position: center; 
+    
+}
+
+.navbar{
+    height: 10vh;
+    border: px solid blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width :10%;
+    height: 80%;
+    border: px solid green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menuitems{
+    width :60%;
+    height: 80%;
+    border: px solid green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.lower{
+    border:px solid rgb(4, 255, 16);
+    height: 75vh;
+    display:flex;
+    padding-left: 5rem;
+    padding-top: 7rem;
+
+ 
+
+}
+.form{
+    background-color: rgb(255, 255, 255);
+    height:61.951219512195124vh;
+    width: 27.15277777777778vw;
+    border: px solid green;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+p{
+    font-family: 'Roboto', sans-serif;
+     font-weight: 900;
+}
+.heading{
+    border:px solid red ;
+    height: 20%;
+    width: 80%;
+    padding-left: 10px;
+    padding-top: 1rem;
+    font-family: 'Roboto', sans-serif;
+
+
+    
+}
+
+.inputs{
+    border:px solid red ;
+    height: 60%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.partout{
+     border:px solid blue;
+     width : 100%;
+     height: 25%;
+
+}
+.head1{
+    border: px solid green;
+    height: 20%;
+    width: 90%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.headinput1{
+
+    border: px solid green;
+    height: 70%;
+    width: 100%;
+    border-radius: 5px;
+    padding-top: .5rem;
+
+}
+
+.name{
+    border: 2px solid #ededed;
+    width: 95%;
+    height: 80% ;
+    border-radius: 5px;
+    padding-left:.5rem ;
+
+
+}
+.dates{
+    border:px solid blue;
+    width : 100%;
+    height: 30%;
+    display: flex;
+    justify-content: flex-start;
+
+}
+.arrive{
+    border: px solid green;
+    height: 90%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.head2{
+    border: px solid red;
+    height: 20%;
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+.headinput2{
+    border: px solid black;
+    height: 60%;
+    width: 100%;
+    display: flex;
+justify-content: flex-end;
+}
+
+.headinputall{
+    border: 2px solid #ededed;
+    width: 100%;
+    height: 80% ;
+    border-radius: 5px;
+    padding-left:.5rem ;
+
+}
+.headinputall1 {
+border: 2px solid #ededed;
+width: 100%;
+height: 80% ;
+border-radius: 5px;
+padding-left:.5rem ;
+
+
+}
+
+.depart{
+    border: px solid green;
+    height: 90%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.head3{
+    border: px solid red;
+    height: 20%;
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+
+}
+.headinput3{
+    border: px solid black;
+    height: 60%;
+    width: 100%;
+    display: flex;
+justify-content: flex-start;
+}
+
+.voyag{
+    border:px solid blue;
+    width : 100%;
+    height: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.head4{
+    border: px solid red;
+    height: 20%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+.headinput4{
+    border: px solid green;
+    height: 50%;
+    width: 100%;
+
+}
+.voy{
+        border: 2px solid #ededed;
+        width: 95%;
+        height: 100% ;
+        border-radius: 3px;
+    padding-left:.5rem ;
+
+}
+.button{
+    border: px solid red;
+    height: 10%;
+    width: 80%;
+    display: flex;
+    justify-content: flex-end;
+}
+.bdesign{
+    border: px solid rgb(183, 10, 39);
+    width: 50%;
+    height: 80%;
+    background-color: #ff5a5f;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+
+.explorerAirbnb{
+
+    box-sizing: border-box;
+
+    border: px solid rgb(208, 244, 5);
+    height: 100vh; 
+    padding-top:8rem ;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.uppersection{
+    border: px solid red;
+    width: 100%;
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+}
+.subupper{
+    border: px solid red;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    
+    flex-direction: row;
+    padding-top: 1rem;
+    
+}
+.logements{
+    border: px solid blue;
+    height: 80%;
+    width: 33%;
+    display: flex;
+    padding-left: 5rem;
+    padding-right:3rem;
+    box-shadow: #ededed;
+}
+.left1{
+    border: px solid red;
+    height: 100%;
+    width: 40%;
+    display: flex;
+    background-image: url(./image/logements.png);
+    background-size: cover;
+    background-position: center; 
+    border-top-left-radius:8px;
+    border-bottom-left-radius:8px;
+    box-shadow:  5px 2px 25px 0px #ededed;
+}
+.right1{
+    border: px solid red;
+    height: 100%;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    background-color: #ffffff;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    box-shadow: 5px 2px 25px 0px #ededed;
+
+    
+    
+}
+.experiences{
+    border: px solid blue;
+    height: 80%;
+    width: 33%;
+    padding-left: 5rem;
+
+    display: flex;
+    padding-right:3rem;
+
+
+}
+.left2{
+    border: px solid red;
+    height: 100%;
+    width: 40%;
+    background-image: url(./image/experiences.png);
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius:8px;
+    border-bottom-left-radius:8px;
+    box-shadow:  5px 2px 25px 0px #ededed; 
+    
+}
+.right2{
+    border: px solid red;
+    height: 100%;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    box-shadow: 5px 2px 25px 0px #ededed;
+}
+.Aventures{
+    border: px solid blue;
+    height: 80%;
+    width: 33%;
+    display: flex;
+    padding-left: 5rem;
+
+    padding-right:3rem;
+
+
+}
+.left3{
+    border: px solid red;
+    height: 100%;
+    width: 40%;
+    background-image: url(./image/Aventures.png);
+    background-size: cover;
+    background-position: center; 
+    border-top-left-radius:8px;
+    border-bottom-left-radius:8px;
+    box-shadow:  5px 2px 25px 0px #ededed;
+}
+.right3{
+    border: px solid red;
+    height: 100%;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    box-shadow: 5px 2px 25px 0px #ededed;
+
+}
+.middle{
+    border: px solid black;
+    height: 10%;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ padding-top: 2rem;
+ padding-left: 5rem;
+}
+
+.mainlower{
+    border: px solid rgb(240, 17, 17);
+    width: 100%;
+    height: 60%; 
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem ;
+}
+.lowersection{
+    border: px solid rgb(7, 7, 7);
+    width: 90%;
+    height: 80%; 
+   
+    background-image: url(./image/Big_Card.png);
+    background-size: cover;
+    background-position: center; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
+}
+
+.aventures{
+    box-sizing: border-box;
+
+    border: px solid rgb(0, 13, 255);
+    height: 100vh;
+    position: relative;
+
+}
+
+.upper2{
+    border:px solid red;
+    height:20%;
+    display:flex;
+    flex-direction: column;
+   justify-content: center;
+   padding-left: 4rem;
+
+}
+.lower2{
+    border:px solid rgb(255, 34, 0);
+    height:69%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    /* justify-content: space-around; */
+    
+}
+.lowerone{
+    border: px solid yellow;
+    height: 60%;
+    width: 15%;
+    padding-right: .5rem;
+}
+
+.subupper1{
+    border: px solid rgb(255, 21, 0);
+    height: 60%;
+    width: 100%;
+    background-image: url(./image/Lower1.png);
+    background-size: cover;
+    background-position: center; 
+}
+.sublower1{
+    border: px solid rgb(255, 21, 0);
+    height: 40%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+.subheading{
+    font-size: small;
+    color: #b6c3ca;
+    padding: 2px;
+}
+.heading3{
+
+}
+.light{
+font-family: 'Roboto', sans-serif;
+color: #484848;
+}
+.color{
+    color: #008489;
+    font-size: 10px;
+    display: flex;
+    font-family:'Courier New', Courier, monospace ;
+} 
+
+.star
+{
+    border: px solid red;
+    height: 10%;
+    width: 10%;
+}
+.lowertwo{
+    border: px solid yellow;
+    height: 60%;
+    width: 15%;
+}
+.subupper2{
+    border: px solid rgb(255, 21, 0);
+    height: 60%;
+    width: 100%;
+    background-image: url(./image/lower2.png);
+    background-size: cover;
+    background-position: center; 
+
+}
+.sublower2{
+    border: px solid rgb(255, 21, 0);
+    height: 40%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+.lowerthree{
+    border: px solid yellow;
+    height: 60%;
+    width: 15%;
+    padding-left: .5rem;
+
+}
+.subupper3{
+    border: px solid rgb(255, 21, 0);
+    height: 60%;
+    width: 100%;
+    background-image: url(./image/lower3.png);
+    background-size: cover;
+    background-position: center; 
+}
+.sublower3{
+    border: px solid rgb(255, 21, 0);
+    height: 40%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.lowerfour{
+    border: px solid yellow;
+    height: 60%;
+    width: 15%;
+    padding-left: .5rem;
+
+}
+.subupper4{
+    border: px solid rgb(255, 21, 0);
+    height: 60%;
+    width: 100%;
+    background-image: url(./image/lower4.png);
+    background-size: cover;
+    background-position: center; 
+}
+.sublower4{
+    border: px solid rgb(255, 21, 0);
+    height: 40%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+.lowerfive{
+    border: px solid yellow;
+    height: 60%;
+    width: 15%;
+    padding-left: .5rem;
+
+}
+.subupper5{
+    border: px solid rgb(255, 21, 0);
+    height: 60%;
+    width: 100%;
+    background-image: url(./image/lower5.png);
+    background-size: cover;
+    background-position: center; 
+}
+.sublower5{
+    border: px solid rgb(255, 21, 0);
+    height: 40%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+.lowersix{
+    border: px solid yellow;
+    height: 60%;
+    width: 15%;
+    padding-left: .5rem;
+
+}
+.subupper6{
+    border: px solid rgb(255, 21, 0);
+    height: 60%;
+    width: 100%;
+    background-image: url(./image/lower6.png);
+    background-size: cover;
+    background-position: center; 
+}
+.sublower6{
+    border: px solid rgb(255, 21, 0);
+    height: 40%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+
+
+
+.monde{
+    box-sizing: border-box;
+
+    border: px solid rgb(255, 109, 4);
+    height: 100vh; 
+    position: relative;
+
+    top: -15rem;
+}
+
+.upar{
+    border: px solid blue;
+    height: 10%;
+    display: flex;
+    padding-top: 20px;
+    padding-left: 3rem;
+
+}
+.neche{
+    border: px solid rgb(85, 160, 5);
+    height: 89%;
+}
+.upar1{
+    border:px solid red;
+    width:100%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+     justify-content: space-around;
+    /* justify-content: center; */
+}
+.superhost1{
+    border: px solid blue;
+    width: 22%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;}
+.img1{
+    border: px solid green;
+    height: 200px;
+    width: 290px;
+    background-image: url(./image/super1.png);
+    background-size: cover;
+    background-position: center; 
+}
+.content1{
+    border:px solid green;
+    height:39%;
+    width: 100%;
+
+}
+.uppersky1{
+    border:px solid red;
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.sky1{
+    border:px solid blue;
+    width: 35%;
+    height: 50%;
+    padding-left: .9rem;
+    padding-top: 10px;
+    
+    
+}
+.skybutton{
+    border: 2px solid #484848;
+    width: 75%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sky2{
+    border: px solid blue;
+    width: 35%;
+    height: 40%;
+    display: flex;
+    padding-top: 1rem;
+    padding-bottom: 40px;
+}
+.skybutton2{
+    border: 2px solid #484848;
+    width: 75%;
+    height: 60%;
+    display: flex;
+    padding-left: 5px;
+
+    justify-content: center;
+    align-items: center;
+}
+.sky22{
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+.sky23{
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+.sky3{
+    border: px solid blue;
+    width: 19%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    justify-content: flex-end;
+    padding-top: 1rem;
+    padding-right: 20px;
+}
+.skybutton3{
+    border: 2px solid #484848;
+    width: 75%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sky32{
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+.sky33{
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+.lowersky1{
+    border:px solid red;
+    height: 1%;
+    width: 100%;
+}
+.superhost2{
+    border: px solid blue;
+    width: 22%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img2{
+    border: px solid green;
+    height: 200px;
+    width: 290px;
+    background-image: url(./image/super2.png);
+    background-size: cover;
+    background-position: center; 
+    
+}
+.content2{
+    border: px solid green;
+    height:39%;
+    width: 100%;
+    padding-top: .5rem;
+
+
+}
+.uppersky2{
+    border:px solid red;
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.sky21{
+    border: px solid blue;
+    width: 35%;
+    height: 60%;
+}
+.sky22{
+    border: px solid blue;
+    width: 35%;
+    height: 40%;
+}
+.sky23{
+    border: px solid blue;
+    width: 15%;
+    height: 60%;
+}
+.lowersky2{
+    border:px solid red;
+    height: 20%;
+    width: 100%;
+}
+
+.superhost3{
+    border: px solid blue;
+    width: 22%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img3{
+    border: px solid rgb(2, 15, 255);
+    height: 200px;
+    width: 290px;
+    background-image: url(./image/super3.png);
+    background-size: cover;
+    background-position: center; 
+    
+}
+.content3{
+    border: px solid green;
+    height:39%;
+    width: 100%;
+    padding-top: .5rem;
+}
+
+.uppersky3{
+    border:px solid red;
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.sky31{
+    border: px solid blue;
+    width: 35%;
+    height: 60%;
+}
+.sky32{
+    border: px solid blue;
+    width: 35%;
+    height: 40%;
+}
+.sky33{
+    border: px solid blue;
+    width: 15%;
+    height: 60%;
+}
+.lowersky3{
+    border:px solid red;
+    height: 20%;
+    width: 100%;
+}
+
+
+
+.superhost4{
+    border: px solid blue;
+    width: 22%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.img4{
+    border: px solid green;
+    height: 200px;
+    width: 290px;
+    background-image: url(./image/super4.png);
+    background-size: cover;
+    background-position: center; 
+}
+.content4{
+    border: px solid green;
+    height:39%;
+    width: 100%;
+    padding-top: .5rem;
+
+
+}
+.uppersky4{
+    border:px solid red;
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.sky41{
+    border: px solid blue;
+    width: 35%;
+    height: 60%;
+}
+.skybutton4{
+    border: 2px solid #484848;
+    width: 75%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sky42{
+    border: px solid blue;
+    width: 35%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+   
+}
+.sky43{
+    border: px solid blue;
+    width: 15%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+.lowersky4{
+    border:px solid red;
+    height: 20%;
+    width: 100%;
+}
+
+
+.neche1{
+    border:px solid rgb(154, 9, 87);
+    width:100%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+     justify-content: space-around;
+}
+.superhost5{
+    border: px solid blue;
+    width: 22%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.skybutton5{
+    border: 2px solid #484848;
+    width: 75%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sky52{
+    border: px solid blue;
+    width: 35%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+.fa-solid {
+    color: #008489;
+}
+.fa-sharp {
+    color: #ff5a5f;
+}
+.sky53{
+    border: px solid blue;
+    width: 15%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+
+.img5{
+    border: px solid green;
+    height: 200px;
+    width: 290px;
+    background-image: url(./image/super5.png);
+    background-size: cover;
+    background-position: center; 
+}
+.content5{
+    border: px solid green;
+    height:39%;
+    width: 100%;
+    padding-top: .5rem;
+
+
+}
+.uppersky5{
+    border:px solid red;
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.sky51{
+    border: px solid blue;
+    width: 35%;
+    height: 60%;
+}
+.sky52{
+    border: px solid blue;
+    width: 35%;
+    height: 60%;
+}
+.sky53{
+    border: px solid blue;
+    width: 15%;
+    height: 60%;
+}
+.lowersky5{
+    border:px solid red;
+    height: 20%;
+    width: 100%;
+}
+.superhost6{
+    border: px solid blue;
+    width: 22%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img6{
+    border: px solid green;
+    height: 200px;
+    width: 290px;
+    background-image: url(./image/super6.png);
+    background-size: cover;
+    background-position: center; 
+}
+.content6{
+    border: px solid green;
+    height:39%;
+    width: 100%;
+    padding-top: .5rem;
+
+
+}
+.uppersky6{
+    border:px solid red;
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.skybutton6{
+    border: 2px solid #484848;
+    width: 75%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sky62{
+    border: px solid blue;
+    width: 35%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+.sky63{
+    border: px solid blue;
+    width: 15%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+
+.sky61{
+    border: px solid blue;
+    width: 35%;
+    height: 60%;
+}
+.sky62{
+    border:px solid blue;
+    width: 35%;
+    height: 60%;
+}
+.sky63{
+    border: px solid blue;
+    width: 15%;
+    height: 60%;
+}
+.lowersky6{
+    border:px solid red;
+    height: 20%;
+    width: 100%;
+}
+
+.superhost7{
+    border: px solid blue;
+    width: 22%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;}
+.img7{
+    border: px solid green;
+    height: 200px;
+    width: 290px;
+    background-image: url(./image/super7.png);
+    background-size: cover;
+    background-position: center; 
+}
+.content7{
+    border:px solid green;
+    height:39%;
+    width: 100%;
+    padding-top: .5rem;
+
+
+}
+.uppersky7{
+    border:px solid red;
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.skybutton7{
+    border: 2px solid #484848;
+    width: 75%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sky72{
+    border: px solid blue;
+    width: 35%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+.sky73{
+    border: px solid blue;
+    width: 15%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+.sky71{
+    border: px solid blue;
+    width: 35%;
+    height: 60%;
+}
+.sky72{
+    border: px solid blue;
+    width: 35%;
+    height: 60%;
+}
+.sky73{
+    border: px solid blue;
+    width: 15%;
+    height: 60%;
+}
+.lowersky7{
+    border:px solid red;
+    height: 20%;
+    width: 100%;
+}
+
+.superhost8{
+    border: px solid blue;
+    width: 22%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img8{
+    border: px solid green;
+    height: 200px;
+    width: 290px;
+    background-image: url(./image/super8.png);
+
+    background-size: cover;
+    background-position: center; 
+}
+.content8{
+    border: px solid green;
+    height:39%;
+    width: 100%;
+    padding-top: .5rem;
+
+
+}
+.uppersky8{
+    border:px solid red;
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.skybutton8{
+    border: 2px solid #484848;
+    width: 75%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sky82{
+    border: px solid blue;
+    width: 35%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+.sky83{
+    border: px solid blue;
+    width: 15%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+.sky81{
+    border: px solid blue;
+    width: 35%;
+    height: 60%;
+}
+.sky82{
+    border: px solid blue;
+    width: 35%;
+    height: 60%;
+}
+.sky83{
+    border: px solid blue;
+    width: 15%;
+    height: 60%;
+}
+.lowersky8{
+    border:px solid red;
+    height: 20%;
+    width: 100%;
+}
+
+.notes{
+
+    box-sizing: border-box;
+    border: px solid red;
+    height: 100vh;
+    position: relative;
+    top: -15rem;
+}
+.Upper2{
+    border:px solid red;
+    height:20%;
+    display:flex;
+    flex-direction: column;
+   justify-content: center;
+   padding-left: 4rem;
+
+}
+.Lower2{
+    border:px solid rgb(255, 34, 0);
+    height:69%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    /* justify-content: space-around; */
+    
+}
+.Lowerone{
+    border: px solid yellow;
+    height: 60%;
+    width: 15%;
+    padding-right: .5rem;
+}
+
+.Subupper1{
+    border: px solid rgb(255, 21, 0);
+    height: 60%;
+    width: 100%;
+    background-image: url(./image/notes1.png);
+    background-size: cover;
+    background-position: center; 
+}
+.Sublower1{
+    border: px solid rgb(255, 21, 0);
+    height: 40%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+.Subheading{
+    font-size: small;
+    color: #b6c3ca;
+    padding: 2px;
+}
+.Heading3{
+
+}
+.Light{
+font-family: 'Roboto', sans-serif;
+color: #484848;
+}
+.Color{
+    color: #008489;
+    font-family:'Courier New', Courier, monospace ;
+}
+.Lowertwo{
+    border: px solid yellow;
+    height: 60%;
+    width: 15%;
+}
+.Subupper2{
+    border: px solid rgb(255, 21, 0);
+    height: 60%;
+    width: 100%;
+    background-image: url(./image/notes2.png);
+    background-size: cover;
+    background-position: center; 
+
+}
+.Sublower2{
+    border: px solid rgb(255, 21, 0);
+    height: 40%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+.Lowerthree{
+    border: px solid yellow;
+    height: 60%;
+    width: 15%;
+    padding-left: .5rem;
+
+}
+.Subupper3{
+    border: px solid rgb(255, 21, 0);
+    height: 60%;
+    width: 100%;
+    background-image: url(./image/notes3.png);
+    background-size: cover;
+    background-position: center; 
+}
+.Sublower3{
+    border: px solid rgb(255, 21, 0);
+    height: 40%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.Lowerfour{
+    border: px solid yellow;
+    height: 60%;
+    width: 15%;
+    padding-left: .5rem;
+
+}
+.Subupper4{
+    border: px solid rgb(255, 21, 0);
+    height: 60%;
+    width: 100%;
+    background-image: url(./image/notes4.png);
+    background-size: cover;
+    background-position: center; 
+}
+.Sublower4{
+    border: px solid rgb(255, 21, 0);
+    height: 40%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+.Lowerfive{
+    border: px solid yellow;
+    height: 60%;
+    width: 15%;
+    padding-left: .5rem;
+
+}
+.Subupper5{
+    border: px solid rgb(255, 21, 0);
+    height: 60%;
+    width: 100%;
+    background-image: url(./image/notes5.png);
+    background-size: cover;
+    background-position: center; 
+}
+.Sublower5{
+    border: px solid rgb(255, 21, 0);
+    height: 40%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+.Lowersix{
+    border: px solid yellow;
+    height: 60%;
+    width: 15%;
+    padding-left: .5rem;
+
+}
+.Subupper6{
+    border: px solid rgb(255, 21, 0);
+    height: 60%;
+    width: 100%;
+    background-image: url(./image/notes6.png);
+    background-size: cover;
+    background-position: center; 
+}
+.Sublower6{
+    border: px solid rgb(255, 21, 0);
+    height: 40%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+
+
+.destinations{
+
+    box-sizing: border-box;
+    border: px solid rgb(0, 55, 255);
+    height: 100vh;
+    position: relative;
+    top: -30rem;
+    overflow-x: hidden;
+
+}
+
+.desupper{
+    border: px solid red;
+    height: 10%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 3rem;
+    padding-bottom: 1rem;
+}
+.deslower{
+    border: px solid red;
+    height: 70%;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 1.3rem;
+}
+
+.des1{
+    border : px solid green;
+    height: 50%;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.desimg{
+    border: px solid red;
+    width:391px ;
+    height:239px ;
+    background-image: url(./image/desimg1.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.des2{
+    border : px solid green;
+    height: 50%;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.desimg1{
+    border: px solid red;
+    width:391px ;
+    height:239px ;
+    background-image: url(./image/desimg2.png);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}   
+.des3{
+    border : px solid green;
+    height: 50%;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    flex-direction: column;
+ 
+
+}
+.desimg3{
+    border: px solid red;
+    width:391px ;
+    height:239px ;
+    background-image: url(./image/desimg3.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom:px;
+
+}
+
+p{
+    color: #484848;
+    font-family: 'Roboto', sans-serif;
+font-size: small;
+}
+.purple{
+    color: #914669;
+}
+
+.bluiesh{
+ color: #008489;
+}
